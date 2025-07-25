@@ -53,6 +53,10 @@ body {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
+    font-family: "Lexend", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 686;
+  font-style: normal;
 }
 
 .nav-logo .logo-text2 {
@@ -60,6 +64,15 @@ body {
     font-weight: 500;
     color: #8B949E;
     margin-left: 0;
+
+}
+
+
+.nav-logo .logo-text2{
+  font-family: "Playwrite HU", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
 }
 
 .nav-menu {
